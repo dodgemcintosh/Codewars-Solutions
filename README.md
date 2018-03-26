@@ -4,7 +4,7 @@ This repo contains my explorations, solutions, and in-line explanations for Code
 
 ## Getting Started
 
-Solutions for each language are in their corresponding language notebook i.e. the python_solutions notebook will contain problems and solutions in Python.
+Solutions for each language are in their corresponding language notebook i.e. the `Python-Solutions.iynb` notebook will contain problems and solutions in Python.
 
 ### Prerequisites
 
